@@ -8,7 +8,7 @@
     <LUAPLAT>$(Configuration)</LUAPLAT>
   </PropertyGroup>
   <PropertyGroup Label="UserMacros">
-    <LUAV>5.3</LUAV>
+    <LUAV>5.4</LUAV>
     <LUAPREFIX>z:\data\build\vc14\</LUAPREFIX>
     <LUALIB>$(LUAPREFIX)\lib\lua\$(LUAV)\$(LUAPLAT)</LUALIB>
     <LUACDIR>$(LUAPREFIX)\bin\lua\$(LUAV)\$(LUAPLAT)</LUACDIR>
